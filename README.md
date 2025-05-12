@@ -17,11 +17,14 @@ A smart, voice-enabled AI assistant built using Python that listens to your voic
 
 ---
 
-🗣 Example Commands
-Command	Action
-"Open YouTube"	Launches YouTube in browser
-"Play music"	Plays a predefined MP3 file
-"What is Python?"	Gets response from OpenAI
-"Open notepad"	Launches Notepad
-"What's the time?"	Tells current time
-"Exit" or "Goodbye"	Closes the assistant
+## 🗣 Example Commands
+
+| Command             | Action                            |
+|---------------------|-----------------------------------|
+| "Open YouTube"      | Launches YouTube in browser       |
+| "Play music"        | Plays a predefined MP3 file       |
+| "What is Python?"   | Gets response from OpenAI         |
+| "Open notepad"      | Launches Notepad                  |
+| "What's the time?"  | Tells current time                |
+| "Exit" or "Goodbye" | Closes the assistant              |
+
