@@ -11,7 +11,7 @@ speaker = win32com.client.Dispatch("SAPI.SpVoice")
 # OpenAI Client (Make sure your API key is in openai.py)
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 )
 
 def say(text):
